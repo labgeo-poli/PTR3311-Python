@@ -12,11 +12,11 @@ Parte da disciplina de Geomática II (PTR3311) do curso de Engenharia Civil da E
 
 ## Lista de Laboratórios 📚
 
-1. [Introdução ao processamento digital de imagens, resoluções, metadados e busca por imagens no GEE](https://colab.research.google.com/github/lagodoy/PTR3311-Python/blob/master/labs/lab1.ipynb)
-2. [Estatísticas, histogramas, contraste e composições de imagens no GEE](https://colab.research.google.com/github/lagodoy/PTR3311-Python/blob/master/labs/lab2.ipynb)
-3. [Cálculo do NDVI e classificação não-supervisionada de imagens no GEE](https://colab.research.google.com/github/lagodoy/PTR3311-Python/blob/master/labs/lab3.ipynb)
-4. [Mosaicos e classificação supervisionada de imagens no GEE](https://colab.research.google.com/github/lagodoy/PTR3311-Python/blob/master/labs/lab4.ipynb)
-5. [Avaliação de classificação supervisionada de imagens no GEE](https://colab.research.google.com/github/lagodoy/PTR3311-Python/blob/master/labs/lab5.ipynb)
+1. [Introdução ao processamento digital de imagens, resoluções, metadados e busca por imagens no GEE](https://colab.research.google.com/github/labgeo-poli/PTR3311-Python/blob/master/labs/lab1.ipynb)
+2. [Estatísticas, histogramas, contraste e composições de imagens no GEE](https://colab.research.google.com/github/labgeo-poli/PTR3311-Python/blob/master/labs/lab2.ipynb)
+3. [Cálculo do NDVI e classificação não-supervisionada de imagens no GEE](https://colab.research.google.com/github/labgeo-poli/PTR3311-Python/blob/master/labs/lab3.ipynb)
+4. [Mosaicos e classificação supervisionada de imagens no GEE](https://colab.research.google.com/github/labgeo-poli/PTR3311-Python/blob/master/labs/lab4.ipynb)
+5. [Avaliação de classificação supervisionada de imagens no GEE](https://colab.research.google.com/github/labgeo-poli/PTR3311-Python/blob/master/labs/lab5.ipynb)
 
 <!-- TODO: criar badges para cada um dos laboratórios  -->
 
