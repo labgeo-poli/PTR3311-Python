@@ -59,5 +59,5 @@ projeto.
 Distribuído sob a licença GPL-3.0. Veja `LICENSE` para mais informações.
 
 ## Contato ✉️
-
+Email: : `leonardo.godoy@usp.br`
 Email: : `guilherme_fernandes@usp.br`
